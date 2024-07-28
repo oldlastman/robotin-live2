@@ -83,7 +83,7 @@ loops.everyInterval(1000, function () {
             eboticsMIBO.freestyle(40, 40)
         }
     } else {
-        eboticsMIBO.freestyle(0, 0)
+        eboticsMIBO.brake()
     }
 })
 basic.forever(function () {
