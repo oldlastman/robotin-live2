@@ -22,3 +22,8 @@ To edit this repository in MakeCode.
 
 * for PXT/microbit
 <script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
+
+
+## ebotics mibo web not working
+you could get projects ideas from
+https://www.elecfreaks.com/learn-en/microbitKit/ring_bit_v2/index.html
